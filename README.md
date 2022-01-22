@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DgSe95
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python, NodeJS, Go and Rust
-- 💞️ I’m looking to collaborate on Hacking projects
+- 👀 I’m interested in **Hacking**
+- 🌱 I’m currently learning **Python**, **NodeJS**, **Go** and **Rust**
+- 💞️ I’m looking to collaborate on **Hacking** projects
 - 📫 You can reach me via [Twitter](https://twitter.com/DgSe95)
 
 <!---
